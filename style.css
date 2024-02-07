@@ -1,0 +1,78 @@
+@charset "UTF-8";
+
+
+*{
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;900&family=Poppins:wght@400;700&display=swap');
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+    
+
+
+
+.menu{
+    font-family: 'Poppins', sans-serif;
+    height: 20px;
+    top: 47px;
+    left: 40px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+
+.botao{
+width: 124px;
+top: 32px;
+left: 420px;
+height: 50px;
+border-radius: 20px;
+border: none;
+color: white;
+background-color: rgb(67, 217, 67);
+cursor: pointer;
+margin: 10px;
+}
+
+
+img{
+   margin: 163px 0 0 123px;
+   display: inline-block;
+}
+
+
+header{
+    display: inline-block;
+    margin-left: 85px;
+    width: 493px;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+  color: #161A49;
+  letter-spacing: 0.5px;
+}
+
+p{
+ font-weight: 400;
+ font-size: 18px;
+ line-height: 33px;
+ letter-spacing: 0.5px;
+ color: #161A49;
+ margin-top: 47px;
+ margin-bottom: 55px;   
+}
+
+
+button:hover{
+    background-color: blue;
+}
